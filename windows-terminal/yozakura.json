@@ -1,0 +1,23 @@
+{
+    "name": "Yozakura",
+    "background": "#0B0A0D",
+    "foreground": "#D8CFD6",
+    "cursorColor": "#E8A4B8",
+    "selectionBackground": "#3B2A35",
+    "black": "#1A171C",
+    "brightBlack": "#4A3F4A",
+    "red": "#C9697F",
+    "brightRed": "#E08AA0",
+    "green": "#8FA882",
+    "brightGreen": "#A9C29B",
+    "yellow": "#D4A373",
+    "brightYellow": "#E8C09A",
+    "blue": "#8A9BC4",
+    "brightBlue": "#A9B8D8",
+    "purple": "#B58BB3",
+    "brightPurple": "#D2A7D0",
+    "cyan": "#8FB3B0",
+    "brightCyan": "#A9CCC9",
+    "white": "#D8CFD6",
+    "brightWhite": "#F2E9EF"
+}
